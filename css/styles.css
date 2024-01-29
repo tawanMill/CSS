@@ -1,0 +1,35 @@
+/* tag selacter */
+body{background-color: aquamarine;
+}
+
+    /* กำหนดจุดไข่ปลา */
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(219, 63, 89);
+    border-width: 5px;
+    width: 50%;
+}
+
+/* h1 เขียว */
+h1{
+    color: greenyellow;
+}
+
+/* p สีไรก็ได้ */
+p{
+    color: brown;
+}
+
+/* img bgสีน้ำเงิน */
+img{
+    background-color: blue;
+}
+
+/* class selecter */
+.brocooli{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
